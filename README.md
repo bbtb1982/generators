@@ -1,6 +1,6 @@
-# webpack ES6 demo
+# ES6 Generator Examples 
 
-A small demo project that shows how to use webpack for client-side development in ECMAScript 6.
+Exampls of Generators and how to potentially use them
 
 ## Installation
 
@@ -13,3 +13,9 @@ A small demo project that shows how to use webpack for client-side development i
 * open `index.html` in a browser. 
 * Change or add files in `es6` folder. `main.js` is the entry point.
 * Reload the browser when you have made a change.
+
+---
+## Examples
+
+the usecases are described more or less in the directory/file name and commented.
+each directory will contain README.md containing more information.
